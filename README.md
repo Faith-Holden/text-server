@@ -1,7 +1,7 @@
 # text-server
 My solution for Chapter 11 Exercise 3 of “Introduction to Programming Using Java”.
 
-Note: This server works with the server-client program.
+Note: This server works with the text-client program.
 
 Problem Description:
 For this exercise, you will write a network server program. The program is a simple file
